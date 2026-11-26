@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RepPuls</string>
+    <string name="nav_training">Trening</string>
+    <string name="nav_progress">Progres</string>
+    <string name="nav_health">Zdravlje</string>
+    <string name="nav_reminders">Podsetnici</string>
+    <string name="hero_next_label">ŠTA SLEDEĆE DA RADIM</string>
+    <string name="btn_done_next">Urađeno — sledeći korak</string>
+    <string name="free_badge">100% BESPLATNO • LIČNI TRENER</string>
+    <string name="notif_channel_timer_name">Tajmer pauze</string>
+    <string name="notif_channel_timer_desc">Obaveštenja kada istekne pauza između serija</string>
+    <string name="notif_channel_reminder_name">Podsetnici za trening</string>
+    <string name="notif_channel_reminder_desc">Podsetnici šta sledeće treba da uradiš</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "RepPuls",
+  "description": "Besplatna aplikacija za praćenje treninga sa sopstvenom težinom, tajmere pauza, stalne podsetnike i zdrave lične smernice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
